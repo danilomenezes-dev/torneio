@@ -1,4 +1,5 @@
 Sistema de Gerenciamento de Torneios
+
 Um projeto simples em Java para simular partidas de um torneio, calcular os pontos de cada time e exibir uma tabela de classificação em tempo real.
 
 Estrutura e Tecnologias
